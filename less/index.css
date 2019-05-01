@@ -167,7 +167,7 @@ body {
   margin-bottom: 1.5rem;
 }
 .container nav a {
-  margin: 0.2rem 0 0 1.2rem;
+  margin: .2rem 0 0 1.2rem;
   text-decoration: none;
   color: #111010;
 }
@@ -205,7 +205,7 @@ body {
   font-size: 1.3rem;
   border: 0.1rem solid #111010;
   width: 12rem;
-  border-radius: 0.8rem;
+  border-radius: .8rem;
 }
 .container .middle-content {
   display: flex;
@@ -214,7 +214,7 @@ body {
 }
 .container .middle-content .box {
   width: 180rem;
-  margin: 0.5rem 5rem 2rem 0.2rem;
+  margin: .5rem 5rem 2rem .2rem;
 }
 .container .middle-content .box h2 {
   font-size: 3rem;
@@ -228,7 +228,7 @@ body {
 }
 .container .middle-content .box:nth-of-type(2) ul li {
   border: 0.01rem inset #111010;
-  margin: 1rem 0 0.2rem;
+  margin: 1rem 0 .2rem;
   padding: 1.3rem;
   font-size: 1.8rem;
 }
